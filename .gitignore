@@ -1,0 +1,4 @@
+.idea
+/venv
+.gitignor
+*/__pycache__/*
